@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: _The ShakeyBanks Project_
+subtitle: Cracking the Vault
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 ---
+_The Shakeybanks Project_ is an exercise in community building through character creation and SNS mobilization.  The character himself started as a long-form improv exercise. What was originally meant to be a one-off character for an afternoon session of [_Fiasco_](http://bullypulpitgames.com/games/fiasco/), later blossomed into a fully-fleshed out persona whom I built corresponding [twitter](https://twitter.com/ShakeyBanks), [twitch](https://www.twitch.tv/shakeybanks) [youtube](https://www.youtube.com/channel/UCN2CZDAXncFoTVjPMCGV2ug) and [discord](https://discord.gg/GnJhYKx ) communities around.
+
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
@@ -62,12 +64,4 @@ You can add notification, warning and error boxes like this:
 {: .box-note}
 **Note:** This is a notification box.
 
-### Warning
 
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
