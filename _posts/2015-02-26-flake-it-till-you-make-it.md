@@ -2,7 +2,7 @@
 layout: post
 title: Tokyo SSB
 subtitle: Grassroots in the City
-bigimg: /img/tokyo_banner.jpg
+bigimg: /img/Tokyo_Banner.png
 tags: [books, test]
 ---
 
