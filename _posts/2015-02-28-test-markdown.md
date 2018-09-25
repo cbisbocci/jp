@@ -17,7 +17,7 @@ _The Shakeybanks Project_ is an exercise in community building through character
 
 
 ## Memorable Moments
-Below are screenshots from the show highlighting climatic moments from select episodes, showcasing chat interaction and unique set design. 
+Below are screenshots from the show highlighting climatic moments from select episodes, showcasing chat interaction and unique set design. A full list of episodes can be found [here](https://www.youtube.com/channel/UCN2CZDAXncFoTVjPMCGV2ug). 
 
 ![stream1](https://imgur.com/W2cGeg0.jpg)
 
