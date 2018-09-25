@@ -1,15 +1,20 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Tokyo SSB
+subtitle: Grassroots in the City
 bigimg: /img/path.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+## Tokyo SSB--
+Tokyo SSB is the premier grassroots community for competitive Super Smash Brothers play for non-Japanese speakers in Tokyo.  When I first arrived in Tokyo I found no information in English about the competitive scene here so I start began hosting events for this group through [Meetup](https://www.meetup.com/Tokyo-Super-Smash-Bros/).
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+After the meetup group surpassed 300 members it became clear that the group needed to expand its social media presence.  From there I collaborated with three other friends to grow our community on [Discord](https://discordapp.com/invite/GnJhYKx) and [Twitter](https://twitter.com/tokyo_ssb)
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+## VODS
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+How do you get better at your favorite sport? Ask any competitor and they will list **performance review** in their top 5 picks everytime.
+To this end Tokyo SSB began recording and livestreaming our weekly tournaments on the [Tokyo SSB Twitch page](https://www.twitch.tv/tokyossb). Afterwards I clipped the livestreams, trimmed and editted thumbnails in Photoshop and Illustrator, before uploading them to the [Tokyo SSB youtube account](https://www.youtube.com/channel/UC1hu0RXTWBkkhN116BxpvcQ). This process took me about 3-4 hours to complete after hosting the meetup each week. I did so with the hope to attract new players to the group, and give current members to improve their gameplay by having the opportunity to review. 
+
+## Looking Forward
+Starting on Nintendo will release their newest installment in the series, [Smash Ultimate](https://www.smashbros.com/en_US/). At that time, Tokyo SSB expects to see an innundation of interest in the competitive scene and new players eager to prove themselves in our weekly tournaments.
