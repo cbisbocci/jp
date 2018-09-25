@@ -7,7 +7,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [shakeybanks]
 ---
-_The Shakeybanks Project_ is an exercise in community building through character creation and SNS mobilization.  Shakey himself was born of a long-form improv exercise. What was originally meant to be a one-off character for an afternoon session of [_Fiasco_](http://bullypulpitgames.com/games/fiasco/), later blossomed into a fully-fleshed out persona whom I built corresponding [twitter](https://twitter.com/ShakeyBanks), [twitch](https://www.twitch.tv/shakeybanks) [youtube](https://www.youtube.com/channel/UCN2CZDAXncFoTVjPMCGV2ug) and [discord](https://discord.gg/GnJhYKx ) communities around.
+_The Shakeybanks Project_ is an exercise in community building through character creation and SNS mobilization.  Shakey himself was born of a long-form improv exercise. What was originally meant to be a one-off character for an afternoon session of [_Fiasco_](http://bullypulpitgames.com/games/fiasco/), later blossomed into a fully-fleshed out persona whom I built corresponding [twitter](https://twitter.com/ShakeyBanks), [twitch](https://www.twitch.tv/shakeybanks), [youtube](https://www.youtube.com/channel/UCN2CZDAXncFoTVjPMCGV2ug), and [discord](https://discord.gg/GnJhYKx ) communities around.
 
 ## [Catch The Shakey Show!](https://www.twitch.tv/shakeybanks)
 * All starting times are JPN standard
@@ -34,33 +34,6 @@ Below are screenshots from the show highlighting climatic moments from select ep
 
 ![stream5](https://imgur.com/CpriZ0p.jpg)
 
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
 
 ### Notification
 
