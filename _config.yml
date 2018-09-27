@@ -55,7 +55,7 @@ link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#484850"
 footer-text-col: "#777777"
-footer-link-col: "#0085A1"
+footer-link-col: "#FAFAFE"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -104,7 +104,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyPortfolio.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "myportfolio.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
