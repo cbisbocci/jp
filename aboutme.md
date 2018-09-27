@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to get to know me
+subtitle: And all these things I've done
 ---
 
 Welcome to my page, I'll be your sovereign host.  
@@ -13,6 +13,13 @@ I've prepared some hors d'oeuvres, may I take your coat?
  - [JET Assistant Language Teacher](http://jetprogramme.org/en/) (2016-2018)
  - [Freelance Designer](https://www.linkedin.com/in/cesare-bisbocci/) (2016-Now)
  
+### skills
+  - The Microsoft Office Suite
+  - Adobe Photoshop, Illustrator, and InDesign
+  - Python
+  - Native English
+  - Conversational Japanese, French, and Swedish
+ 
 ### my mission
-My mission is to live in a way that I become the best version of myself. I follow this path and allow myself to dabble in any art or science that I feel the urge to try. Though unothrodox this philosophy has shaped my life into an unruly flow of experiences, crafting my world perspective. It is this interdisciplinary view that I impart into all of work.
+My mission is to live in a way that I become the best version of myself. I follow this path and allow myself to dabble in any art or science that I feel the urge to try. Though unothrodox this philosophy has shaped my life into an unruly flow of experiences, crafting my world perspective. It is this interdisciplinary view that I impart into all of my designs.  
 
