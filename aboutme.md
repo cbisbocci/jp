@@ -20,6 +20,6 @@ I've prepared some hors d'oeuvres, may I take your coat?
   - Native English
   - Conversational Japanese, French, and Swedish
  
-### my mission
+### my mission  
 My mission is to live in a way that I become the best version of myself. I follow this path and allow myself to dabble in any art or science that I feel the urge to try. Though unothrodox this philosophy has shaped my life into an unruly flow of experiences, crafting my world perspective. It is this interdisciplinary view that I impart into all of my designs.  
 
