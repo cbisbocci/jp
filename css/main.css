@@ -367,6 +367,12 @@ footer .theme-by {
 .post-entry {
   width: 100%;
 }
+.post-image {
+  float: right;
+  height: 192px;
+  width: 192px;
+  margin-top: -35px;
+}  
 .post-image img {
   border-radius: 100px;
   height: 192px;
