@@ -3,10 +3,6 @@ layout: page
 title: About me
 subtitle: And all these things I've done
 ---
-
-Welcome to my page, I'll be your sovereign host.  
-I've prepared some hors d'oeuvres, may I take your coat?
-
 ### my experience
  - Psychology TA (2014-2016)
  - [Developmental and Sociobiology Lab](https://dslab.uoregon.edu/): Research Assistant (2014-2016)
