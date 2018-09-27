@@ -2,7 +2,7 @@
 layout: post
 title: The ShakeyBanks Project
 subtitle: Cracking the Vault
-big-img: img/big-img/stream3.png
+image: img/shakeyblurple.png
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [shakeybanks]
