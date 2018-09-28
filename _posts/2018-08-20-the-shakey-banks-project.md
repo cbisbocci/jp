@@ -2,7 +2,7 @@
 layout: post
 title: The ShakeyBanks Project
 subtitle: Cracking the Vault
-image: img/shakey_cropped.jpg
+image: img/shakey.jpg
 tags: [Shakeybanks, Photoshop, Illustrator]
 ---
 _The Shakeybanks Project_ is an exercise in community building through character creation and SNS mobilization.  Shakey himself was born of a long-form improv exercise. What was originally meant to be a one-off character for an afternoon session of [_Fiasco_](http://bullypulpitgames.com/games/fiasco/), later blossomed into a fully-fleshed out persona whom I built corresponding [twitter](https://twitter.com/ShakeyBanks), [twitch](https://www.twitch.tv/shakeybanks), [youtube](https://www.youtube.com/channel/UCN2CZDAXncFoTVjPMCGV2ug), and [discord](https://discord.gg/GnJhYKx ) communities around.
