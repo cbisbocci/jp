@@ -1,12 +1,12 @@
 ---
 layout: page
-subtitle: About me
+title: about me
 ---
 ### the things I've done
  - Psychology Graduate Teaching Assistant (2014-2016)
  - [Developmental and Sociobiology Lab](https://dslab.uoregon.edu/): Research Assistant (2014-2016)
  - [JET Assistant Language Teacher](http://jetprogramme.org/en/) (2016-2018)
- - Freelance Writer
+ - Freelance Writer (2016-now)
  - [Freelance Designer](https://www.linkedin.com/in/cesare-bisbocci/) (2016-Now)
  
 ### what is it like to work with me?
