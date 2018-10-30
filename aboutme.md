@@ -9,11 +9,11 @@ subtitle: About me
  - [Freelance Designer](https://www.linkedin.com/in/cesare-bisbocci/) (2016-Now)
  
 ### what is it like to work with me?
-・Strong knowledge and understanding of art and design principles.
-・2+ years experience in professional graphic design field
-・Clear communicator and efficient designer
-・Works well in groups
-・Comfortable translating design into physical installation work via hand-painting, spray paint, stenciling, wheatpasting, etc.
+ - Strong knowledge and understanding of art and design principles.
+ - 2+ years experience in professional graphic design field
+ - Clear communicator and efficient designer
+ - Works well in groups
+ - Comfortable translating design into physical installation work via hand-painting, spray paint, stenciling, wheatpasting, etc.
  
 ### skillsets
   - Adobe Photoshop, Illustrator, and InDesign
