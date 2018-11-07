@@ -12,4 +12,5 @@ Over the past week I conceived, designed, and published my concept for a series 
 ![shock](https://i.imgur.com/Xd5vqa5.png)
 ![sick](https://i.imgur.com/622kx9A.png)
 ![dreamy](https://i.imgur.com/3ZWurhG.png)
+![confused](https://i.imgur.com/0McELWZ.png)
 ![sleep](https://i.imgur.com/Ty3O208.png)
