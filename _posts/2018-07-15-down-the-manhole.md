@@ -6,8 +6,9 @@ image: /img/TheEnd_web_copy.png
 tags: [Down The Manhole, Psychology, Indesign, Photoshop]
 ---
 
-Everyone once in a while we all fall down into our personal manholes. It was in the pit of my own manhole that I co-authored
-_Down The Manhole_ with Illustrator Louis Cicalese.
+Once in a while we all fall down into our personal manholes. It was in the pit of my undergraduate research years that I co-authored my own adventure of going _Down The Manhole_ with my dear friend and illustrator Louis Cicalese. I wrote the story while Cicalese brought the plot to life with 
+
+![frog](
 
 At its essence _Down The Manhole_ is the story about a mother, Beatrix, and her son Enzo as they find their way in the world together. 
 Given their dysfunctional beginnings this story is not uncommon, but what is remarkable is its ability to break barriers. 
@@ -18,5 +19,5 @@ It accomplishes this goal by making research and theories about child developmen
 The novel is informed by a combination of symbols of mindfulness, and motifs of developmental theory in order to weave engaging characters,and a compelling plot, that serves to educate the reader about developmental theory. 
 Throughout the narrative a large emphasis is placed on the restorative properties of mindfulness as a path to greater health and well-being.
 
-_Down The Manhole_ will soon be available on Amazon (https://www.amazon.com/) in both paperback and e-reader versions.
-![cover_art](https://i.imgur.com/qGDdIRW.png)
+_Down The Manhole_ will soon be available on [Amazon](https://www.amazon.com/) in both paperback and e-reader versions.
+![cover_art](https://i.imgur.com/TnxeygO.png)
