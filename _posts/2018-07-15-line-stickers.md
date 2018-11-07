@@ -10,3 +10,6 @@ Over the past week I conceived, designed, and published my concept for a series 
   Momo-kun is now available for purchase in the [Official Line Store](https://store.line.me/stickershop/product/5175060/en) and will soon be available on Facebook!
 ![happy](https://i.imgur.com/ZuUCwLc.png)
 ![shock](https://i.imgur.com/Xd5vqa5.png)
+![sick](https://i.imgur.com/622kx9A.png)
+![dreamy](https://i.imgur.com/3ZWurhG.png)
+![sleep](https://i.imgur.com/Ty3O208.png)
