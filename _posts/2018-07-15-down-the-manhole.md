@@ -8,7 +8,7 @@ tags: [Down The Manhole, Psychology, Indesign, Photoshop]
 
 Once in a while we all fall down into our personal manholes. It was in the pit of my undergraduate research years that I co-authored my own adventure of going _Down The Manhole_ with my dear friend and illustrator Louis Cicalese. I wrote the story while Cicalese brought the plot to life with 
 
-![frog](https://i.imgur.com/npWFg55.png)
+![frog](https://i.imgur.com/GHGCbEC.png)
 
 At its essence _Down The Manhole_ is the story about a mother, Beatrix, and her son Enzo as they find their way in the world together. 
 Given their dysfunctional beginnings this story is not uncommon, but what is remarkable is its ability to break barriers. 
