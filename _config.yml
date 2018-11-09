@@ -25,7 +25,7 @@ description: Tokyo Designs
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - LINE Designs: "https://cbisbocci.github.io/2018-11-01-line-stickers/"
+    - LINE Stickers: "https://cbisbocci.github.io/2018-11-01-line-stickers/"
     - Down The Manhole: "https://cbisbocci.github.io/2018-10-27-down-the-manhole/"
     - The Shakey Banks Project: "https://cbisbocci.github.io/2018-09-20-the-shakey-banks-project/"
     - Tokyo SSB: "https://cbisbocci.github.io/2018-07-28-tokyo-ssb/"
