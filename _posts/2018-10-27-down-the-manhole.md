@@ -18,7 +18,7 @@ _Down The Manhole_ is a manifesto which declares accessibility of knowledge to b
 It accomplishes this goal by making research and theories about child development accessible, and comprehensible to the layperson. 
 The novel is informed by a combination of symbols of mindfulness, and motifs of developmental theory in order to weave engaging characters,and a compelling plot, that serves to educate the reader about developmental theory. 
 Throughout the narrative a large emphasis is placed on the restorative properties of mindfulness as a path to greater health and well-being.![cover_art](https://i.imgur.com/sx4HCHy.png)
-In step with _Down The Manhole_'s mission to inform readers on the subject of developmental psychology I have released a free PDF version of the novella available for download from the [UO Scholar Bank](https://scholarsbank.uoregon.edu/xmlui/handle/1794/20265). While this draft perfectly captures my original intentions it is rough, and clunky in places.  To ammend this I have enlisted the help of a professional editor to help me carve out a smooth final draft.
+  In step with _Down The Manhole_'s mission to inform readers on the subject of developmental psychology I have released a free PDF version of the novella available for download from the [UO Scholar Bank](https://scholarsbank.uoregon.edu/xmlui/handle/1794/20265). While this draft perfectly captures my original intentions it is rough, and clunky in places.  To ammend this I have enlisted the help of a professional editor to help me carve out a smooth final draft.
 
 _Down The Manhole_ will soon be available on [Amazon](https://www.amazon.com/) in both paperback and e-reader versions.  
 
