@@ -18,7 +18,6 @@ _Down The Manhole_ is a manifesto which declares accessibility of knowledge to b
 It accomplishes this goal by making research and theories about child development accessible, and comprehensible to the layperson. 
 The novel is informed by a combination of symbols of mindfulness, and motifs of developmental theory in order to weave engaging characters,and a compelling plot, that serves to educate the reader about developmental theory. 
 Throughout the narrative a large emphasis is placed on the restorative properties of mindfulness as a path to greater health and well-being.
-
 ![cover_art](https://i.imgur.com/sx4HCHy.png)
 
 
