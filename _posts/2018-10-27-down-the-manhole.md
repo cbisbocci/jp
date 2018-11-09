@@ -2,7 +2,7 @@
 layout: post
 title: Down The Manhole
 subtitle: Developmental Psychology and Access to Information
-image: /img/TheEnd_web_copy.png
+image: /img/DTM_web_icon.png
 tags: [Down The Manhole, Psychology, Indesign, Photoshop]
 ---
 
