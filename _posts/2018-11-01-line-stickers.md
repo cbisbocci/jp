@@ -7,7 +7,7 @@ tags: [LINE, Design, Photoshop, Illustrator, Adobe]
 ---
 ## Momo-kun  
 Over the past week I conceived, designed, and published my concept for a series of mobile stickers. This series follows the adventures of an altogether adorable axolotl named Momo! Momo-kun was inspired by my pet axolotl. Whenever my friends would come to visit they would find him irresistably cute. This project became a way for me share my and my friend's love for Momo-kun via mobile services!  
-Momo-kun is now available for purchase in the [Official Line Store](https://store.line.me/stickershop/product/5175060/en) and will soon be available on Facebook! Below are some of Momo Kun's many faces:
+Momo-kun is now available for purchase in the [Official Line Store](https://store.line.me/stickershop/product/5175060/en) and will soon be available on [Facebook](https://www.facebook.com/)! Below are some of Momo Kun's many faces:
   
 ![happy](https://i.imgur.com/ZuUCwLc.png)
 ![shock](https://i.imgur.com/Xd5vqa5.png)
