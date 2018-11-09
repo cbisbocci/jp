@@ -23,5 +23,5 @@ Throughout the narrative a large emphasis is placed on the restorative propertie
 ## Where Can I Read It?
 In step with _Down The Manhole_'s mission to inform readers on the subject of developmental psychology I have released a free PDF version of the novella available for download from the [UO Scholar Bank](https://scholarsbank.uoregon.edu/xmlui/handle/1794/20265). While this draft perfectly captures my original intentions it is rough, and clunky in places.  To ammend this I have enlisted the help of a professional editor to help me carve out a smooth final draft.
 
-_Down The Manhole_ will soon be available on [Amazon](https://www.amazon.com/) in both paperback and e-reader versions.  
+Starting from January 1st, 2019 _Down The Manhole_ will be available on [Amazon](https://www.amazon.com/) in both paperback and e-reader versions.  
 
