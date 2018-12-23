@@ -2,7 +2,6 @@
 layout: post
 title: White Skies
 subtitle: Warm Hearts
-bigimg: /img/ribbon.png
 image: /img/square_tree.png
 tags: [Christmas, Holiday, Illustrator]
 ---
