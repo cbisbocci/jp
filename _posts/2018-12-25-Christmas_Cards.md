@@ -1,12 +1,11 @@
 ---
 layout: post
-title: White Skies
+title: Christmas Cardss
 subtitle: Warm Hearts
 image: /img/square_tree.png
 tags: [Christmas, Holiday, Illustrator]
 ---
 
-## Christmas Cards
 It's that time of year again! The season to spread the love and good cheer with warm cocoa and Yuletide greetings!
 And there is no better way to do so than to share the gift of original christmas cards! In this spirt I crafted some seasonally themed cards!
 
