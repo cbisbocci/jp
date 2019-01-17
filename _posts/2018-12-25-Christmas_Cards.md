@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Christmas Cardss
+title: Christmas Cards
 subtitle: Warm Hearts
 image: /img/square_tree.png
 tags: [Christmas, Holiday, Illustrator]
