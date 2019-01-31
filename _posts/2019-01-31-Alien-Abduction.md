@@ -5,7 +5,7 @@ subtitle: A Close Encounter with AfterFX
 tags: [animation]
 ---
 
-##Alien Abduction
+## Alien Abduction
 
 Last night a UFO kidnapped ShakeyBanks. This is a project was 
 
