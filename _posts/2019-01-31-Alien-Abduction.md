@@ -9,4 +9,4 @@ tags: [animation]
 
 Last night a UFO kidnapped ShakeyBanks. This is a project was 
 
-!video[aliens](https://i.imgur.com/yENCMe4.mp4)
+![aliens](https://i.imgur.com/yENCMe4.mp4)
