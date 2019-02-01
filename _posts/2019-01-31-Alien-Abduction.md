@@ -2,6 +2,7 @@
 layout: post
 title: Alien Abduction!!
 subtitle: A Close Encounter with AfterFX
+image: /img/alien.png
 tags: [animation, Adobe After Effects]
 ---
 
