@@ -3,7 +3,7 @@ layout: post
 title: Alien Abduction!
 subtitle: A Close Encounter with AfterFX
 image: /img/alien.png
-tags: [animation, After Effects]
+tags: [Animation, After Effects]
 ---
 Oh no! Last night a UFO kidnapped ShakeyBanks! 
 
