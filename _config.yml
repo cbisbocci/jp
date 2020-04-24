@@ -25,8 +25,8 @@ description: Tokyo Designs
 navbar-links:
   About: "aboutme"
   Animation: 
-    -Alien Abduction!: "https://cbisbocci.github.io/2019-01-31-Alien-Abduction/"
-    #-Battle Monsters: ""
+    - Alien Abduction!: "https://cbisbocci.github.io/2019-01-31-Alien-Abduction/"
+    #- Battle Monsters: ""
   Graphic Design:
     - POPOFF!: "https://cbisbocci.github.io/2019-11-23-popoff/"
     - TIPR: "https://cbisbocci.github.io/2019-06-29-TIPR/"
