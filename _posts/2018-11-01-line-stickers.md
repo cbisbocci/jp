@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LINE Stickers-- Momo-kun!
+title: LINE Stickers- Momo-kun!
 subtitle: Conceptual Design
 image: /img/upa_sleep_web.png
 tags: [LINE, Facebook, Design, Photoshop, Illustrator]
