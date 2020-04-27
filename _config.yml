@@ -29,7 +29,7 @@ navbar-links:
     #- Battle Monsters: ""
   Graphic Design:
     - Christmas Cards: "https://cbisbocci.github.io/2018-12-25-Christmas_Cards/"
-    - Down The Manhole: "https://cbisbocci.github.io/2018-10-27-down-the-manhole/"
+   
     - LINE Stickers: "https://cbisbocci.github.io/2018-11-01-line-stickers/"
     - Neural Connectivity: "https://cbisbocci.github.io/2019-02-27-the-tram/"
     - POPOFF!: "https://cbisbocci.github.io/2019-11-23-popoff/"
@@ -40,7 +40,11 @@ navbar-links:
   #Videography: 
     #-TedxTalk: ""
     #-Tokyo Nights Montage ""
-  #Japanese: ""
+　 Writing:
+    - Down The Manhole: "https://cbisbocci.github.io/2018-10-27-down-the-manhole/"
+    #- Haiku Anthology: ""
+    #- Research Papers: ""
+  日本語: ""
   Home: "https://cbisbocci.github.io/"
  
 # Image to show in the navigation bar - image must be a square (width = height)
